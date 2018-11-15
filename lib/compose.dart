@@ -1,11 +1,7 @@
 Compose c() => Compose();
 
 class Compose {
-  List _fns;
-
-  Compose() {
-    _fns = [];
-  }
+  final _fns = [];
 
   Compose operator >>(f) => _addFn(f);
 
