@@ -1,5 +1,3 @@
-typedef T F<T, E>(E);
-
 Compose c() => Compose();
 
 class Compose {
