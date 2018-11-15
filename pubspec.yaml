@@ -1,5 +1,5 @@
 name: compose
-description: Compose functions in dart
+description: Compose functions in dart(https://en.wikipedia.org/wiki/Function_composition). Try to use it with language operators.
 version: 0.0.1
 homepage: https://github.com/shindakioku/compose
 author: firstlast <shindakioku@gmail.com>
